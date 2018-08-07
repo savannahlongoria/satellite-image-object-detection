@@ -1,4 +1,4 @@
-# Object detection on satellite images
+# Object detection on satellite images (For Mangrove Threat Detection)
 
 YOLO/YOLOv2 inspired deep neural network for object detection on satellite images. Built using Tensorflow. Keys features:
 - the model is using an architecture similar to YOLOv2 (batch_norm after each layers, no fully connected layers at the end).
